@@ -1,5 +1,8 @@
 # mouse-recorder-lite v2.0
 
+Mouse Recorder Lite: A fast and lightweight tool to effortlessly record and automate your mouse movements and clicks.
+Simplify repetitive tasks with a user-friendly interface
+
 Basit ve hafif bir fare kayıt ve oynatma aracıdır.
 
 ## 🚀 Özellikler
